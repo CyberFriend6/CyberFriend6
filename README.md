@@ -2,7 +2,7 @@
 
 **`Casual Programmer (Game Developer/App Creator/Code Enthusiast) `**
 
-I am a beginner programmer who is looking to learn more computer languages and gain experience within Cyber Security / Game Development / Programming. I am currently working towards my A.S. Computer Information Systems @ FCC and planning to transfer to a 4-yr university in California to get B.S. in Computer Science. I grew up playing games my whole life and was expose to coding because of Minecraft. Coding is my passion because I love to build projects from scratch and solve problems that occurs. As the more difficult and challenging my issues gets, this makes me want to find a solution and patch it up. You can follow along and check out my most recent works on my profile as coding is my passion and what I enjoy to do on my free time. 
+I am a beginner programmer who is looking to learn more computer languages and gain experience within Cyber Security / Game Development / Programming. I am currently working towards my A.S. Computer Information Systems @ FCC and planning to transfer to a 4-yr university in California to get B.S. in Computer Science. I grew up playing games my whole life and was expose to coding because of Minecraft. Coding is my passion because I love to build projects from scratch and solve problems that occurs. As the more difficult and challenging my issues gets, this makes me want to find a solution and patch it up even more. You can follow along and check out my most recent works on my profile as coding is my passion and what I enjoy to do on my free time. 
 
 <p align="left">
   
