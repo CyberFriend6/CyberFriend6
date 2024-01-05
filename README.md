@@ -2,7 +2,7 @@
 
 **`Casual Programmer (Game Developer/App Creator/Code Enthusiast) `**
 
-I am a beginner programmer who is looking to learn more computer languages and gain experience within Cyber Security / Game Development / Programming. I am currently working towards my A.S. Computer Information Systems @ FCC and planning to transfer to a 4-yr university in California to get B.S. in Computer Science. I grew up playing games my whole life and was expose to coding because of Minecraft. Coding is my passion because I love to build projects from scratch and solve problems that occurs. As the more difficult and challenging my issues gets, this makes me want to find a solution and patch it up even more. You can follow along and check out my most recent works on my profile as coding is my passion and what I enjoy to do on my free time. 
+I am a beginner programmer who is looking to learn more computer languages and gain experience within Cyber Security / Game Development / Programming. I am completing my A.S. Computer Information Systems @ FCC and planning to transfer to a 4-yr university in California to complete my studies for B.S. in Computer Science. I grew up playing games my whole life and was expose to coding because of Minecraft. Coding is my passion because I love to build projects from scratch and solve problems that occurs. As more difficult and challenging my error gets, this gives me a sense of purpose to want to find a solution and patch it up. You can follow along and check out my most recent works on my profile as coding is my passion and what I enjoy to do on my free time. 
 
 <p align="left">
   
@@ -37,7 +37,7 @@ No Current Projects Displayed
 
 <details>
   <summary><h3>🧑 Sit's Progress</summary>
-    Hello! if you are reading this, it means you are interested in my struggle and journey with coding. My journey has been a rough and bumpy road, but I presevere through all the tough times and pushing myself to my limits whether it be programming and life in general. I never liked reading and studying was never my strongest suit, but as time progresses, I learned that my academic is key to life and is the only way to learn effectively. I use to think there were shortcuts and an easy way to do things, but I learned that through time that I have to put in effort and try my best in order to reach all my goals. As of now, I have to say I am in my best mental mindset of my life and I cannot wait to learn as much as I can and apply what I learn to my future pathway. I am ready and can't wait to show the programming world what I am capable of! -Sit
+    Hello! if you are reading this, it means you are interested in my struggle and journey with coding. My journey has been a rough and bumpy road, but I presevere through all the tough times and pushing myself to my limits whether it be programming and life in general. I never liked reading and studying was never my strongest suit, but as time progresses, I learned that my academic is key to life and is the only way to learn effectively is to commit myself to keep reading and studying. I use to think there were shortcuts and easy way to get things done, but I learned that through time that I have to put in effort and try my best in order to reach my goals. As of now, I have to say I am in my best mental mindset of my life and cannot wait to learn as much as I can and apply what I learn to my future pathway. I am ready to show the programming/tech world what I am capable of! -Sit
 </details>
 
 
