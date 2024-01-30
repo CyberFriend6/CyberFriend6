@@ -15,7 +15,7 @@ I am a beginner programmer who is looking to learn more computer languages and g
 </a>
 
 </p>
-<!--Skills-->
+
 ---
 ### 🛠️ Languages and Tools
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
