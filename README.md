@@ -28,7 +28,6 @@ I am a self-learning/classroom-educated programmer who is looking to learn more 
 <img align="left" alt="Maven" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
 <img align="left" alt="Gradle" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg"/>
 
-https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg
 <br />
 
 #
