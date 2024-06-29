@@ -3,7 +3,7 @@
 
 **`Casual Programmer`** **`IT Specialist`**
 
-I am a self-learner and classroom-educated programmer who is looking to gain and expand my experience within Software Development and OS/Embedded Systems Development then progress towards Cybersecurity.
+I am a self-learner and classroom-educated programmer who is looking to gain and expand my experience within Software Development and OS/Embedded Systems Development. I am also interested in working within Cybersecurity and Networking.
 <p align="left">
   
 <a href="https://www.linkedin.com/in/sitwour-lor-21b615260">
