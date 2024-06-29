@@ -1,7 +1,7 @@
 
 # Sitwour Lor 👷
 
-**`Casual Programmer`** **`IT Specialist`**
+**`Programmer`** **`IT`** **`Networking`** **`Cybersecurity`**
 
 I am a self-learner and classroom-educated programmer who is looking to gain and expand my experience within Software Development and OS/Embedded Systems Development. I am also interested in working within Cybersecurity and Networking.
 <p align="left">
