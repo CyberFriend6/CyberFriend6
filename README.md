@@ -1,7 +1,7 @@
 
 # Sitwour Lor 👷
 
-**`Programmer`** **`Generative AI`** **`Software Engineering`** **`IT`** **`Networking`** **`Cybersecurity`**
+**`Programmer`** **`Generative AI`** **`Software Engineering`** **`Cybersecurity`**
 
 I am a motivated self-learner and classroom-educated programmer who is looking to gain experience in Software Engineering to further develop my professional skills and experience for Generative AI.
 <p align="left">
