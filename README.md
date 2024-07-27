@@ -3,7 +3,7 @@
 
 **`Programmer`** **`Generative AI`** **`Software Engineering`** **`Cybersecurity`**
 
-I am a motivated self-learner and classroom-educated programmer who is looking to gain experience in Software Engineering to further develop my professional skills and experience for Generative AI.
+I am a motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience for Software Engineering and Generative AI.
 <p align="left">
   
 <a href="https://www.linkedin.com/in/sitwour-lor-21b615260">
