@@ -1,7 +1,7 @@
 
 # Sitwour Lor 👷
 
-**`Programmer`** **`Software Engineering`** **`Generative AI`** **`Game Development`**
+**`Programmer`** **`Software Engineering`** **`Game Development`** **`Generative AI`**
 
 I am a motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience for Software Engineering and Generative AI. Been learning since '98!
 <p align="left">
