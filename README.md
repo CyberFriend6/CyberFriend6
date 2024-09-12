@@ -3,7 +3,7 @@
 
 **`Software Engineering`** **`Generative AI`** **`Game Development`**
 
-I am a motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience for Software Engineering.
+I am a motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience in Software Engineering.
 <p align="left">
   
 <a href="https://www.linkedin.com/in/sitwour-lor-21b615260">
