@@ -3,7 +3,7 @@
 
 **`Software Engineering`** **`Generative AI`** **`Game Development`**
 
-Motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience in Software Engineering. I am proficient in C++ and Python. I have a passion for game development in ROBLOX. 
+Motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience in Software Engineering. I am proficient in C++ and Python; My secondary languages are Java and Javascript. I have a passion for game development in ROBLOX. 
 <p align="left">
   
 <a href="https://www.linkedin.com/in/sitwour-lor-21b615260">
