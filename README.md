@@ -43,7 +43,7 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 #
 
 
-NO MAIN PROJECTS DISPLAYED
+
 
 #
 
