@@ -34,7 +34,6 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 <img align="left" alt="Springboot" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
 <img align="left" alt="Flask" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/>
 <img align="left" alt="Django" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
-<img align="left" alt="LangChain" width="60px" style="padding-right:10px;" src=""/>
 
 <br />
 
