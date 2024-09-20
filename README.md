@@ -40,7 +40,7 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 #
 
 
-No Current Projects Displayed
+Word of the day: HAPPY
 
 #
 
