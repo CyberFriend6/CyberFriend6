@@ -43,7 +43,7 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 #
 
 
-Positivity Quote: BE HAPPY!
+NO MAIN PROJECTS DISPLAYED
 
 #
 
