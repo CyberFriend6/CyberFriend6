@@ -37,17 +37,15 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 <img align="left" alt="Django" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
 <img align="left" alt="React" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
 
-
-
-
 #
 
 
 
 
+
 #
 
-
+(```)
 
 ### Stats 📊💡
 
