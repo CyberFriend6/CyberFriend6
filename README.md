@@ -45,7 +45,7 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 
 #
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+Line one.<br><br>
 
 ### Stats 📊💡
 
