@@ -41,7 +41,7 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 #
 
 
-My Yearly Quote: BE HAPPY!
+Positivity Quote: BE HAPPY!
 
 #
 
