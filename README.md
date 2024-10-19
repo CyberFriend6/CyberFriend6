@@ -1,7 +1,7 @@
 
 # Sitwour Lor 👷
 
-**`Software Engineering`** **`Generative AI`** **`Game Development`**
+**`Software Engineering`** **`Game Development`** **`Generative AI`** 
 
 Motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience in Software Engineering. I am proficient in programming with C++, Python and Lua. I have a passion for game development in ROBLOX. My favorite topic as of right now is Generative AI as it peaks my current interest and I want to learn more about it to possibly land a career in the field! Currenntly learning JS, C#, Rust, Ruby, React and then Angular.
 <p align="left">
