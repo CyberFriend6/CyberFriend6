@@ -3,7 +3,7 @@
 
 **`Software Engineering`** **`Game Development`** **`Generative AI`** 
 
-Motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience for software development. I am proficient in programming with C++, Python and Lua. I have a passion for game development in ROBLOX. My current favorite form of entertainment is learning more about artificial intelligence and its application towards the real world in business.
+Motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience for software development. I know how to program in many languages, but my proficient languages are C++, Python and Lua. I have a passion for game development in ROBLOX. My current favorite form of entertainment is learning more about artificial intelligence and its application towards the real world in business.
 <p align="left">
   
 <a href="https://www.linkedin.com/in/sitwour-lor-21b615260">
