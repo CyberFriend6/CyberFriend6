@@ -10,7 +10,7 @@ Motivated self-learner and classroom-educated programmer looking for internship 
   <img alt ="My LinkedIn " title="This is my LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/Linked-In-blue.svg?logo=linkedinuno"/>
 </a>
 <a href="https://devforum.roblox.com/u/garbnothrow">
-  <<img alt="MY RBX Dev" title="This is my Roblox Developer Profile" src="https://custom-icon-badges.demolab.com/badge/RBX-Developer-blue.svg?logo=rbxuno">
+  <img alt="MY RBX Dev" title="This is my Roblox Developer Profile" src="https://custom-icon-badges.demolab.com/badge/RBX-Developer-blue.svg?logo=rbxuno">
 </a>
 
 </p>
