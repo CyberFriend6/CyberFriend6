@@ -51,12 +51,12 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 
 ### Stats 📊💡
 
-![Sit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=official3lo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=official3lo&show_icons=true&theme=tokyonight)
 
 #
 
 <details>
-  <summary><h3>🧑 Sit's Progress</summary>
+  <summary><h3>🧑 My Progress</summary>
     Hello! if you are reading this, it means you are interested in my progression of becoming a Software Engineer. I struggled with learning how to code while being a full time college student and working. Eventually, I decided to take a much needed break from my academics that was due to not having a goal and went blindly into the computer science path without any guidance. Within that break, I have work in many occupations, gaining insights of different workfields that gave me knowledge and skills that can be applied towards programming. The time I took time off gave me clarity and gave me time to contemplate and finally rediscover my passion for programming which helped me want to learn more in order to become a Software Engineer. I spent most of my education within Fresno City College, as I have graduated and received my A.S in Computer Information Systems learning IT fundamentals computer networking and programming and will also be ready to start my progress at my local CSU to work on completing an undergrad for B.S. in Computer Science. It took me many years to realize I have been doing the same programming concept repetitively resulting me to start understanding programming as a whole. I am grateful to where I am currently because without all these mistakes and errors I have come across, I would have not been pursuing a career as a software engineer. Now, without even thinking, I believe I have become a programmer by heart and coding is engraved within me as I like to believe that this world runs like computers working through while, ifs and for loops statements to reach a certain action and output that will one day lead me to my end goal.
 </details>
 
