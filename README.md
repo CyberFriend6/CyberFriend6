@@ -1,5 +1,5 @@
 
-# Sitwour Lor 👷
+# Eric 👷
 
 **`Software Engineering`** **`Game Development`** **`Generative AI`** 
 
