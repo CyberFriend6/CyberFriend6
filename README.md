@@ -51,7 +51,7 @@ Motivated self-learner and classroom-educated programmer looking for internship 
 
 ### Stats 📊💡
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=official3lo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyberfriend6&show_icons=true&theme=tokyonight)
 
 #
 
