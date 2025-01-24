@@ -1,5 +1,5 @@
 
-# Eric 👷
+# Eric L.👷
 
 **`Software Engineering`** **`Game Development`** **`Generative AI`** 
 
