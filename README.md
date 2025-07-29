@@ -6,9 +6,7 @@
 Motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience for software development. I know how to program in C++, Java, Python and Lua, but I am more proficient in C++. I have a passion for game development in ROBLOX. My current favorite form of entertainment is learning more about artificial intelligence and its application towards the real world in businesses.
 <p align="left">
   
-<a href="https://www.linkedin.com/in/sitwour-lor-21b615260">
-  <img alt ="My LinkedIn " title="This is my LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/Linked-In-blue.svg?logo=linkedinuno"/>
-</a>
+
 <a href="https://devforum.roblox.com/u/garbnothrow">
   <img alt="MY RBX Dev" title="This is my Roblox Developer Profile" src="https://custom-icon-badges.demolab.com/badge/RBX-Developer-blue.svg?logo=rbxuno">
 </a>
