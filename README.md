@@ -1,5 +1,5 @@
 
-# Eric L.👷
+# XO 👷
 
 **`Software Engineering`** **`Game Development`** **`Generative AI`** 
 
