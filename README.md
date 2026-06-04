@@ -1,9 +1,9 @@
 
-# XO 👷
+# Sit L. 👷
 
 **`Software Engineering`** **`Game Development`** **`Generative AI`** 
 
-Motivated self-learner and classroom-educated programmer looking for internship opportunity to further develop my professional skills and experience for software development. I know how to program in C++, Java, Python and Lua, but I am more proficient in C++. I have a passion for game development in ROBLOX. My current favorite form of entertainment is learning more about artificial intelligence and its application towards the real world in businesses.
+A programmer looking for internship or full-time employment opportunity to further develop my professional skills and experience for software development. I know how to program in C++, Java, Python and Lua, but more proficient in C++. I have a passion for coding.
 <p align="left">
   
 
