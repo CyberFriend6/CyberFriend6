@@ -1,7 +1,7 @@
 
 # Sit L. 👷
 
-**`Software Engineering`** **`Game Development`** **`Generative AI`** 
+**`Software Engineering`** **`Game Development`**
 
 A programmer looking for internship or full-time employment opportunity to further develop my professional skills and experience for software development. I know how to program in C++, Java, Python and Lua, but more proficient in C++.
 <p align="left">
