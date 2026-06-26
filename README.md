@@ -26,7 +26,7 @@ I am currently looking for internship or full-time employment opportunity in I.T
 #
 
 <br>
-[SPACE]
+
 <br>
 
 ### Stats 📊💡
