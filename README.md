@@ -3,11 +3,11 @@
 
 **`Software Engineering`** **`Game Development`**
 
-A programmer looking for internship or full-time employment opportunity to further develop my professional skills and experience for software development. I know how to program in C++, Java, Python and Lua, but more proficient in C++.
+I am currently looking for internship or full-time employment opportunity in I.T. and software development only. I know how to program in C++, Java, Python and Lua. I like to develop games on my own free time :)
 <p align="left">
   
 
-<a href="https://devforum.roblox.com/u/garbnothrow">
+<a href="https://devforum.roblox.com/u/DemonKingLosi">
   <img alt="MY RBX Dev" title="This is my Roblox Developer Profile" src="https://custom-icon-badges.demolab.com/badge/RBX-Developer-blue.svg?logo=rbxuno">
 </a>
 
