@@ -3,7 +3,7 @@
 
 **`I.T.`** **`Software Engineering`** **`Game Development`**
 
-I am currently looking for internship or full-time employment opportunity in I.T. and software development only. I know how to program in C++, Java, Python and Lua. I like to develop games on my own free time :)
+I am currently looking for internship or full-time employment opportunity in I.T. and software development. I know how to program in C++, Java, Python and Lua. I like to develop games on my own free time :)
 <p align="left">
   
 
