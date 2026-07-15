@@ -1,5 +1,5 @@
 
-# Sit L. 👷
+# Sit L. (Eric) 👷
 
 **`I.T.`** **`Software Engineering`** **`Game Development`**
 
